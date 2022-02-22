@@ -2,7 +2,7 @@
 Repository created for Life is the game's test
 ##What is this project about?
 The test is a FPS game where you can use a sort of weapons and view it's physical properties and effects among other objects, a fun fact about this game is that in upper right part of the screen will be always a character dancing what you've selected previously in a Dance Selection screen.
-##Resources
+## Resources
 * Unity 2020.3.26f1.
 * Unity Input System
 * [Fire VFX Asset](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496/ "Fire VFX Asset")
